@@ -62,22 +62,27 @@ The University will also retain Usage Data for internal analysis purposes. Usage
 
 **Transfer of Your Personal Data**
 Your information, including Personal Data, is processed at the University’s operating offices and in any other places where the parties involved in the processing are located. 
+
 Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.
 The University will take all steps reasonably necessary to ensure that Your data is treated securely and in accordance with this Privacy Policy and no transfer of Your Personal Data will take place to an organization or a country unless there are adequate controls in place including the security of Your data and other personal information.
 
-Disclosure of Your Personal Data
-Business Transactions
+**Disclosure of Your Personal Data
+Business Transactions**
+
 If the University is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
-Law enforcement
+
+**Law enforcement**
 Under certain circumstances, the University may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
-Other legal requirements
+
+**Other legal requirements**
 The University may disclose Your Personal Data in the good faith belief that such action is necessary to:
 •	Comply with a legal obligation
 •	Protect and defend the rights or property of the University
 •	Prevent or investigate possible wrongdoing in connection with the Service
 •	Protect the personal safety of Users of the Service or the public
 •	Protect against legal liability
-Security of Your Personal Data
+
+**Security of Your Personal Data**
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
 
 Children's Privacy
